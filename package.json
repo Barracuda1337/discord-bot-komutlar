@@ -44,7 +44,7 @@
     "discord.nd": "^0.0.3",
     "ejs": "^2.6.1",
     "eksisozlukjs": "^1.0.7",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-session": "^1.15.6",
     "ffmpeg": "^0.0.4",
     "ffmpeg-binaries": "^4.0.0",
